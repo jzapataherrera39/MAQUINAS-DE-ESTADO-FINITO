@@ -9,4 +9,4 @@ hoja (find leaf) y el cursor del mouse se acerca a la hormiga, hay una transici�
 Mientras ese estado esté activo, la hormiga se escapará del cursor del mouse. Cuando el cursor ya no es una amenaza,
 hay una transición de regreso al estado de búsqueda de hoja (find leaf) .).
 Agradecimientos a 
-Fernando Bevilacqua por compartir su conocimiento de como hacerlo
+Fernando Bevilacqua por compartir su conocimiento de como hacerlo.
